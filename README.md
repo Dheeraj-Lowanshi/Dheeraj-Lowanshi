@@ -2,7 +2,8 @@
 
 *Backend Developer | Java & Spring Boot  | AI Explorer*  
 
-<p align="center>
+<p align="center">
+  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/dheeraj-lowanshi)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?logo=About.me&logoColor=white&style=for-the-badge)](https://portfolio-dheeraj-lowanshi.netlify.app/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116.svg?logo=leetcode&logoColor=black&style=for-the-badge)](https://leetcode.com/u/dheerajlowanshi/)
