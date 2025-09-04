@@ -2,8 +2,16 @@
 
 *Backend Developer | Java & Spring Boot  | AI Explorer*  
 
+<p align="center>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/dheeraj-lowanshi)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?logo=About.me&logoColor=white&style=for-the-badge)](https://portfolio-dheeraj-lowanshi.netlify.app/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116.svg?logo=leetcode&logoColor=black&style=for-the-badge)](https://leetcode.com/u/dheerajlowanshi/)
+  
+</p>
+---
+##About Me
+Hey, I'm Dheeraj, a Full Stack Developer passionate about building performant, user-friendly, and scalable applications. I am a 4th-year B.Tech student specializing in Information Technology, from Oriental Institute of Science And Technology, Bhopal.
+🚀 I am also enhancing my expertise in Data Structures & Algorithms 📊, Spring Boot 🌱, and Database Management Systems 🛢️, with a keen interest in building efficient and scalable applications.
 
 ---
 
@@ -20,7 +28,7 @@
 
 ---
 
-## 🛠️ Technical Skills
+<p align="center">
 
 ### 💻 Languages  
 ![C++](https://img.shields.io/badge/C++-00599C.svg?logo=cplusplus&logoColor=white&style=for-the-badge)
@@ -38,7 +46,6 @@
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F.svg?logo=thymeleaf&logoColor=white&style=for-the-badge)
 ![MVC](https://img.shields.io/badge/MVC%20Architecture-6DB33F.svg?logo=spring&logoColor=white&style=for-the-badge)
 
-
 ### ⚙️ Tools  
 ![Git](https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white&style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/GitHub-12100E.svg?logo=github&logoColor=white&style=for-the-badge)
@@ -48,6 +55,8 @@
 ![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6.svg?logo=apachenetbeanside&logoColor=white&style=for-the-badge)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?logo=postman&logoColor=white&style=for-the-badge)
 ![MySQL Workbench](https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white&style=for-the-badge)
+
+</p>
 
 ---
 
