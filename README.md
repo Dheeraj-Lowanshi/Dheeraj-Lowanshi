@@ -35,6 +35,9 @@
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?logo=springboot&logoColor=white&style=for-the-badge)
 ![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F.svg?logo=spring&logoColor=white&style=for-the-badge)
 ![JEE](https://img.shields.io/badge/Java%20EE-007396.svg?logo=java&logoColor=white&style=for-the-badge)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F.svg?logo=thymeleaf&logoColor=white&style=for-the-badge)
+![MVC](https://img.shields.io/badge/MVC%20Architecture-6DB33F.svg?logo=spring&logoColor=white&style=for-the-badge)
+
 
 ### ⚙️ Tools  
 ![Git](https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white&style=for-the-badge)
@@ -62,10 +65,11 @@
 - 🎓 *Introduction to Generative AI* – Coursera  
 
 ---
+## 🔥 Currently
 
-## 📊 GitHub Stats
-![Dheeraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dheeraj-Lowanshi&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dheeraj-Lowanshi&layout=compact&theme=tokyonight)
+- 📖 **Learning:** Spring AI and integrating it with Spring Boot 
+- ⚡ **Building:** AI-powered Application  
+
 
 ---
 ✨ *“Code, Learn, Build, Repeat 🚀”*
