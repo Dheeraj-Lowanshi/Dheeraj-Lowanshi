@@ -9,9 +9,11 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116.svg?logo=leetcode&logoColor=black&style=for-the-badge)](https://leetcode.com/u/dheerajlowanshi/)
   
 </p>
+
 ---
-##About Me
-Hey, I'm Dheeraj, a Full Stack Developer passionate about building performant, user-friendly, and scalable applications. I am a 4th-year B.Tech student specializing in Information Technology, from Oriental Institute of Science And Technology, Bhopal.
+
+## 👋About Me
+Hey, I'm Dheeraj, a Full Stack Java Developer passionate about building performant, user-friendly, and scalable applications. 📖 I am a 4th-year B.Tech student specializing in Information Technology, from 🎓Oriental Institute of Science And Technology, Bhopal.
 🚀 I am also enhancing my expertise in Data Structures & Algorithms 📊, Spring Boot 🌱, and Database Management Systems 🛢️, with a keen interest in building efficient and scalable applications.
 
 ---
