@@ -1,87 +1,241 @@
-# 👨‍💻 Dheeraj Lowanshi
+# Hi 👋, I'm Dheeraj Lowanshi
 
-*Backend Developer | Java & Spring Boot  | AI Explorer*  
+### Java Backend Developer | AI Enthusiast | Exploring Generative AI 🚀
 
-<p align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/dheeraj-lowanshi)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?logo=About.me&logoColor=white&style=for-the-badge)](https://portfolio-dheeraj-lowanshi.netlify.app/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116.svg?logo=leetcode&logoColor=black&style=for-the-badge)](https://leetcode.com/u/dheerajlowanshi/)
-  
-</p>
+I'm a **B.Tech Information Technology graduate** passionate about backend development, problem-solving, and Artificial Intelligence.
+
+I have experience building applications using **Java, Spring Boot, MySQL, REST APIs, and AI APIs**. Recently, I completed **Python programming** and I'm now taking my next step toward **Generative AI**.
 
 ---
 
-## 👋About Me
-Hey, I'm Dheeraj, a Full Stack Java Developer passionate about building performant, user-friendly, and scalable applications. 📖 I am a 4th-year B.Tech student specializing in Information Technology, from 🎓Oriental Institute of Science And Technology, Bhopal.
-🚀 I am also enhancing my expertise in Data Structures & Algorithms 📊, Spring Boot 🌱, and Database Management Systems 🛢️, with a keen interest in building efficient and scalable applications.
+## 👨‍💻 About Me
+
+* 🎓 B.Tech in Information Technology — 2026 Graduate
+* 💻 Interested in **Java Backend Development**
+* ☕ Strong interest in **Java & Spring Boot**
+* 🐍 Recently completed **Python Programming**
+* 🤖 Currently learning **Generative AI**
+* 🧠 Interested in **LLMs, RAG, Embeddings & Vector Databases**
+* 🔥 Solved **300+ DSA problems** on LeetCode & GeeksforGeeks
+* 🚀 Love building practical and real-world applications
+* 📍 Indore, Madhya Pradesh, India
 
 ---
 
-## 🎓 Education
-- **Bachelor of Engineering – IT** 
-  Oriental Institute of Science And Technology, Bhopal (2022–2026)  
+## 🛠️ Tech Stack
+
+### Languages
+
+* Java
+* JavaScript
+* Python
+
+### Backend
+
+* Spring
+* Spring Boot
+* Spring MVC
+* Spring Data JPA
+* Hibernate
+* Spring Security
+* REST APIs
+* Spring AI
+
+### Frontend
+
+* HTML
+* CSS
+* Bootstrap
+* JavaScript
+* React.js
+
+### Database
+
+* MySQL
+* MySQL Workbench
+
+### AI & Generative AI
+
+* Spring AI
+* OpenAI API
+* Google Gemini API
+* LLM Applications
+* Prompt Engineering
+* RAG
+* Embeddings
+* Vector Databases
+
+### Tools
+
+* Git
+* GitHub
+* Docker
+* Maven
+* Postman
+* IntelliJ IDEA
+* VS Code
+* Spring Tool Suite
+* GitHub Copilot
+* Claude
 
 ---
-## 💡 Passion & Expertise
-- 🔥 **Backend Development** – Java, Spring Boot, REST APIs  
-- 🧩 **Problem Solving** – Data Structures & Algorithms 
-- 🚀 **AI-Powered Systems** – Exploring Spring AI integrations with Spring Boot  
-- 🌐 **Full-Stack Projects** – Building scalable applications with modern tech
+
+## 🚀 Projects
+
+### 🤖 Helpdesk Assistant
+
+An AI-powered helpdesk chatbot that handles user queries and assists with support ticket creation.
+
+**Tech Stack:**
+`Spring Boot` `Spring AI` `OpenAI GPT-4o-mini` `MySQL`
+
+**Key Features:**
+
+* AI-powered chatbot
+* Context-aware responses
+* OpenAI GPT-4o-mini integration
+* System prompt design
+* Support ticket assistance
 
 ---
 
-<p align="center">
+### 💼 HireSense Application
 
-### 💻 Languages  
-![C++](https://img.shields.io/badge/C++-00599C.svg?logo=cplusplus&logoColor=white&style=for-the-badge)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black&style=for-the-badge)
+An AI-powered job recruitment platform with automated resume parsing and intelligent job recommendations.
 
-### 🌐 Web Development  
-![HTML](https://img.shields.io/badge/HTML5-E34F26.svg?logo=html5&logoColor=white&style=for-the-badge)
-![CSS](https://img.shields.io/badge/CSS3-1572B6.svg?logo=css3&logoColor=white&style=for-the-badge)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white&style=for-the-badge)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02.svg?logo=greensock&logoColor=black&style=for-the-badge)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?logo=springboot&logoColor=white&style=for-the-badge)
-![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F.svg?logo=spring&logoColor=white&style=for-the-badge)
-![JEE](https://img.shields.io/badge/Java%20EE-007396.svg?logo=java&logoColor=white&style=for-the-badge)
-![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F.svg?logo=thymeleaf&logoColor=white&style=for-the-badge)
-![MVC](https://img.shields.io/badge/MVC%20Architecture-6DB33F.svg?logo=spring&logoColor=white&style=for-the-badge)
+**Tech Stack:**
+`Java` `JEE` `MySQL` `HTML` `Bootstrap` `Affinda API` `MVC`
 
-### ⚙️ Tools  
-![Git](https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white&style=for-the-badge)
-![GitHub](https://img.shields.io/badge/GitHub-12100E.svg?logo=github&logoColor=white&style=for-the-badge)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?logo=visualstudiocode&logoColor=white&style=for-the-badge)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?logo=intellijidea&logoColor=white&style=for-the-badge)
-![STS](https://img.shields.io/badge/Spring%20Tool%20Suite-6DB33F.svg?logo=spring&logoColor=white&style=for-the-badge)
-![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6.svg?logo=apachenetbeanside&logoColor=white&style=for-the-badge)
-![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?logo=postman&logoColor=white&style=for-the-badge)
-![MySQL Workbench](https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white&style=for-the-badge)
+**Key Features:**
 
-</p>
+* Resume upload and parsing
+* Job search
+* Application tracking
+* Recruiter dashboard
+* AI-based resume analysis
+* Intelligent job recommendations
 
 ---
 
-## 📖 Academic Coursework
-- Object-Oriented Programming  
-- Data Structures  
-- Database Management System  
-- Operating Systems  
+### 📧 Email Assistant
+
+An AI-powered Gmail assistant that generates context-aware email replies in different tones.
+
+**Tech Stack:**
+`React.js` `Spring Boot` `Google Gemini API` `MVC`
+
+**Key Features:**
+
+* AI-generated email replies
+* Context-aware responses
+* Multiple response tones
+* Gemini API integration
+* Custom "Generate Response" feature
 
 ---
 
-## 🏆 Achievements
-- 🎓 NPTEL – *Database Management System*  
-- 🎓 NPTEL – *Programming in Java* (77%)  
-- 🎓 *Introduction to Generative AI* – Coursera  
+### 🗳️ Votezy
+
+A secure online voting system for managing voters, candidates, elections, and results.
+
+**Tech Stack:**
+`Java` `Spring Boot` `Spring Data JPA` `MySQL` `JavaScript` `Bootstrap`
+
+**Key Features:**
+
+* Voter registration
+* Candidate registration
+* Election management
+* Duplicate voting prevention
+* Result management
+* MySQL database integration
 
 ---
-## 🔥 Currently
 
-- 📖 **Learning:** Spring AI and integrating it with Spring Boot 
-- ⚡ **Building:** AI-powered Application  
+## 🧠 Data Structures & Algorithms
 
+I regularly practice **Data Structures and Algorithms** to improve my problem-solving and coding skills.
+
+### 🏆 300+ Problems Solved
+
+Platforms:
+
+* [LeetCode](https://leetcode.com/)
+* [GeeksforGeeks](https://www.geeksforgeeks.org/)
+
+Topics I practice:
+
+* Arrays
+* Strings
+* Linked List
+* Stack & Queue
+* Recursion
+* Sorting
+* Binary Search
+* Trees
+* Graphs
+* Greedy Algorithms
+* Dynamic Programming
 
 ---
-✨ *“Code, Learn, Build, Repeat 🚀”*
+
+## 📚 Certifications
+
+* **NPTEL — Programming in Java**
+* **NPTEL — Database Management System**
+
+---
+
+## 📖 My Learning Journey
+
+```text
+Java
+  ↓
+OOP & Data Structures
+  ↓
+Spring & Spring Boot
+  ↓
+REST APIs
+  ↓
+JPA / Hibernate
+  ↓
+Spring Security
+  ↓
+AI API Integration
+  ↓
+Python
+  ↓
+Generative AI 🚀
+```
+
+---
+
+## 🎯 Currently Learning
+
+I'm currently focusing on **Generative AI** and exploring how AI can be integrated with backend applications.
+
+```text
+Python
+   ↓
+Python for AI
+   ↓
+AI Fundamentals
+   ↓
+LLMs
+   ↓
+Prompt Engineering
+   ↓
+Embeddings
+   ↓
+Vector Databases
+   ↓
+RAG
+   ↓
+Generative AI Applications
+```
+
+My goal is to combine my **Java backend development skills** with **Generative AI** to build useful and production-oriented AI applications.
+
+---
+
+## 📊 Git
