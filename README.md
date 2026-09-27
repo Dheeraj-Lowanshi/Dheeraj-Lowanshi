@@ -14,8 +14,6 @@
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1500&duration=3000&color=36BCF7&center=true&vCenter=true&width=750&lines=Java+%7C+Spring+Boot+%7C+Backend+Development;Python+%7C+Generative+AI+%7C+AI-Powered+Applications"
 alt="Typing SVG" />
 
-<br/>
-
 <a href="https://github.com/Dheeraj-Lowanshi">
   <img src="https://img.shields.io/badge/GitHub-Dheeraj--Lowanshi-181717?style=for-the-badge&logo=github" alt="GitHub"/>
 </a>
