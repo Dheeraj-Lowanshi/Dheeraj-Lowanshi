@@ -281,18 +281,6 @@ After completing my Python learning journey, I'm now moving deeper into **Genera
 
 ---
 
-# 📈 Contribution Activity
-
-<div align="center">
-
-<a href="https://github.com/Dheeraj-Lowanshi">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dheeraj-Lowanshi&hide_border=true&area=true&radius=8" alt="Dheeraj's GitHub Activity Graph"/>
-</a>
-
-</div>
-
----
-
 # 🏆 Achievements & Certifications
 
 <div align="center">
