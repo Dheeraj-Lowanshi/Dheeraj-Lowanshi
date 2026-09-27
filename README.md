@@ -86,68 +86,96 @@ After completing my Python learning journey, I'm now moving deeper into **Genera
 </table>
 
 ---
-
 # 🛠️ Tech Stack
 
 ### 💻 Programming Languages
 
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,python,javascript" />
+
+</div>
+
+---
 
 ### ⚙️ Backend Development
 
-<p>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=spring,docker,maven" />
+
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20MVC-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=flat-square&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/>
 </p>
+
+---
 
 ### 🤖 AI & Generative AI
 
-<p>
-  <img src="https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenAI-GPT--4o--mini-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google-Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Affinda_AI-111827?style=for-the-badge"/>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,openai" />
+
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Spring%20AI-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI%20GPT--4o--mini-412991?style=flat-square&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Gemini%20API-4285F4?style=flat-square&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Affinda%20AI-111827?style=flat-square"/>
 </p>
+
+---
 
 ### 🌐 Frontend
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" />
+
+</div>
+
+<p align="center">
+  <sub>React.js — Basic</sub>
 </p>
+
+---
 
 ### 🗄️ Database
 
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL_Workbench-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql" />
+
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL%20Workbench-00758F?style=flat-square&logo=mysql&logoColor=white"/>
 </p>
+
+---
 
 ### 🔧 Tools & Platforms
 
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-</p>
+<div align="center">
 
+<img src="https://skillicons.dev/icons?i=git,github,docker,maven,postman,idea,vscode" />
+
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/STS-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=flat-square&logo=apache-netbeans-ide&logoColor=white"/>
+</p>
 ---
 
 # 🚀 Featured Projects
