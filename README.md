@@ -11,7 +11,8 @@
 
 ### Backend Developer | Java & Spring Boot | Generative AI Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Java+%7C+Spring+Boot+%7C+Backend+Development;Python+%7C+Generative+AI+%7C+AI-Powered+Applications;Building+Practical+Software+with+AI+%26+Backend+Technologies;Learn+%7C+Build+%7C+Solve+%7C+Improve" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1500&duration=3000&color=36BCF7&center=true&vCenter=true&width=750&lines=Java+%7C+Spring+Boot+%7C+Backend+Development;Python+%7C+Generative+AI+%7C+AI-Powered+Applications"
+alt="Typing SVG" />
 
 <br/>
 
